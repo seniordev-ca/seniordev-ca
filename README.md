@@ -2,10 +2,6 @@
 ## Hi, there 👋
 I'm a dedicated and disciplined web developer based in QC, Canada with extensive experience and a deep passion for programming.
 
-[![Linkedin Badge](https://img.shields.io/badge/-David%20Jin-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/david-jin-300456218/)](https://www.linkedin.com/in/david-jin-300456218/)
-[![Gmail Badge](https://img.shields.io/badge/-davidjin.dev@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:davidjin.dev@gmail.com)](mailto:davidjin.dev@gmail.com)
-[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-00C7B7?style=flat&logo=netlify&logoColor=white&link=https://davidjin.netlify.app/)](https://davidjin.netlify.app/)
-
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=seniordev-ca&count_private=true&show_icons=true&include_all_commits=true&theme=vue-dark&hide=contribs)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seniordev-ca&layout=compact&theme=vue-dark)
 
